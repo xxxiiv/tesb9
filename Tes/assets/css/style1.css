@@ -1,0 +1,53 @@
+.wrapper{
+	width: 100%
+}
+
+header{
+	background-color:white;
+	border-bottom: 1px solid #e5e5e5;
+	padding: 20px;
+	box-shadow: 0 0 3px #000;
+}
+
+.bg-light{
+	background-color: transparent !important;
+}
+
+footer .footer-atas{
+	background-color:#DAEEE3;
+	padding: 15px;
+}
+
+footer .footer-bawah{
+	background-color: lightgrey;
+	padding:8px 0;
+}
+
+.grey{
+	color:grey;
+}
+.history{
+	margin-top: 20px;
+}
+.konten-gambar{
+	margin-bottom: 20px;
+}
+.gambar-kecil img {
+	width: 82px;
+	float: left;
+	margin-right:7px;
+}
+
+.gambar-kecil{
+	margin-top: 10px;
+}
+.gambar-kecil .col-xs-12,
+.gambar-kecil .col-sm-12,
+.gambar-kecil .col-md-12,
+.gambar-kecil .col-lg-12{
+	padding-right: 0;
+}
+
+.gambar-kecil img:last-child {
+	margin-right: 
+}
